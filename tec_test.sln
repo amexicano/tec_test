@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECD_Handler", "ECD_Handler\ECD_Handler.csproj", "{D114A178-FB88-432B-B478-3D9CD457AA00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D114A178-FB88-432B-B478-3D9CD457AA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D114A178-FB88-432B-B478-3D9CD457AA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D114A178-FB88-432B-B478-3D9CD457AA00}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D114A178-FB88-432B-B478-3D9CD457AA00}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3EA0057-D20E-42B4-B27B-E5C7FDA6EBB6}
+	EndGlobalSection
+EndGlobal
